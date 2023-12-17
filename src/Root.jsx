@@ -31,7 +31,6 @@ const Root = () => {
 
                 {/* navigation */}
 
-                {/* nothing here its just  */}
                 <div className="hidden lg:block fixed  right-20 top-48">
                     <Navigation></Navigation>
                 </div>
